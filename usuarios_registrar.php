@@ -80,7 +80,7 @@ echo "<script>alert('Correo duplicado, intenta con otro correo');</script>";
 }
 else
 {
-echo "<script> alert('Usuario registrado con exito: $nombre'); window.location='index.php' </script>";
+echo "<script> alert('Usuario registrado con exito: $nombre'); window.location='../index.php' </script>";
 }
 } 
 ?>
